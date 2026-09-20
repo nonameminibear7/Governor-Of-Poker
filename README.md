@@ -220,4 +220,4 @@ Governor of Poker is offered as a full free version with all features and update
 Ready to test your poker skills and become the Governor of Poker? **Download now and join the adventure!**
 
 ---
-**Last updated:** 2026-09-19 22:05:59 UTC
+**Last updated:** 2026-09-20 00:37:34 UTC
